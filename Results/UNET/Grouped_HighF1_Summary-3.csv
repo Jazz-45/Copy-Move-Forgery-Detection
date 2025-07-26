@@ -1,0 +1,6 @@
+Transformation,Avg Precision,Avg Recall,Avg F1-Score,Avg IoU,Avg Accuracy
+Translation,0.9761,0.7845,0.8437,0.7684,0.9872
+Rotation,0.9506,0.8323,0.8767,0.8077,0.9949
+Scaling,0.9693,0.7915,0.8504,0.7721,0.9913
+Distortion,0.9713,0.9126,0.9379,0.8935,0.9961
+Combination,0.9332,0.8747,0.8899,0.8225,0.9933
